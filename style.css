@@ -114,7 +114,8 @@ header nav ul li a
     text-align: center;
     padding: 100px 0 40px 0;
     margin-bottom: 10px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
 }
 .button-1
 {
